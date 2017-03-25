@@ -1,8 +1,11 @@
-ölsdjtölawjkökldj öljdföljk
+upspuskinsenliian aikaisinölsdjtölawjkökldj öljdföljk
 
 TÄRKEÄÄ
 afdjölkjadölkjfdaökljfadökljafdökladföjklfa
 
+<<<<<<< HEAD
 öflkjökljaföjklaf
 
 nyt piti lisätä jotain loppuun
+>>>>>>> 5cb6a61420d2e865eace5fc1164c4be285b47e53
+Jep
